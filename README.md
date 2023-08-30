@@ -1,5 +1,5 @@
 # BDA594-EBraga
-##**Eric Braga**
+## **Eric Braga**
 
 _[https://sdsu.instructure.com/courses/141078](https://sdsu.instructure.com/courses/141078)_
 
